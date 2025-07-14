@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Jul 2025 21:38:34 at https://www.boxcarquilts.com/ +*.css +*.js +*.html +*.htm +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*-admin** -*-login** -*-wp-admin**
+(winhttrack -qwr5%e0C2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A0%c10%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F  -%l "en, *" -%R https://www.google.com/ -%X "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" -%X "Accept-Encoding: gzip, deflate, br" -%X "Connection: keep-alive" https://www.boxcarquilts.com/ -O1 "C:\Users\boxca\OneDrive\Desktop\html text files for web\BCQ" +*.css +*.js +*.html +*.htm +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*-admin** -*-login** -*-wp-admin** )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:38:34	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+21:38:34	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+21:39:11	Error: 	"Not Found" (404) at link https://www.boxcarquilts.com/website-accessibility.htm (from https://www.boxcarquilts.com/)
+21:39:11	Error: 	"Not Found" (404) at link https://www.boxcarquilts.com/u0022https:////media.rainpos.com//7381//LOGO_Final_Box_Car_Quilts_20250612133320.svg/u0022 (from https://www.boxcarquilts.com/)
+21:40:44	Error: 	Exit requested by shell or user
+21:40:48	Error: 	Exit requested by shell or user
+21:40:48	Error: 	"" (-1) at link https://www.boxcarquilts.com/u0022https:////media.rainpos.com//7381//230x186_top_shop_logo_color_1png.png/u0022 (from https://www.boxcarquilts.com/)
+21:40:48	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 14 seconds : 304 links scanned, 288 files written (65975934 bytes overall) [46187812 bytes received at 344685 bytes/sec], 30684908 bytes transferred using HTTP compression in 189 files, ratio 28%, 7.1 requests per connection
+(6 errors, 2 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
