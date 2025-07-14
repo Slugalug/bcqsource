@@ -1,0 +1,8 @@
+-qwr5%e0C2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A0%c10%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "" -%l "en, *" -%R https://www.google.com/ -%X "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" -%X "Accept-Encoding: gzip, deflate, br" -%X "Connection: keep-alive" https://www.boxcarquilts.com/ -O1 "C:\Users\boxca\OneDrive\Desktop\html text files for web\BCQ" +*.css +*.js +*.html +*.htm +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*-admin** -*-login** -*-wp-admin**
+File generated automatically on Sun, 13 Jul 2025 21:38:34, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
